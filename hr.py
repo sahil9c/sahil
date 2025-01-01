@@ -1,7 +1,8 @@
 import subprocess
 import time
 import logging
-from aiogram import Bot
+from aiogram
+import Bot
 import asyncio
 
 API_TOKEN = '7456621495:AAFis7aKTDQR6kHV0AgMIWVqJesYaKKz4Dw'
